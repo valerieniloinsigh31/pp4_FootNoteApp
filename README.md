@@ -20,3 +20,52 @@ What is it?: The FootNote app is an app connecting creative people. It connects 
 
 Everyone who joins the FootNote app has the choice of having their own FootNote profile, where they post their ideas and are susceptible to criticism/feedback by the other FootNote app members who they have accepted as feedback givers on their profile. Additionally, they will be capable of applying to be a feedback given on the profiles or other writers who they match with. They will need to be accepted as a feedback giver before they can see the ideas, vote the idea green/red and give feedback on the profiles of other FootNote members.
 
+DESIGN:
+
+Lucidcharts
+
+How I want the apo to look
+
+Views:
+
+User interaction
+One to many relationship?
+Or many to many relationship?
+
+Functions to break down...
+
+One to many-the profile owner operates as the superuser or administrator of their own profile. Only they can post/edit their own original idea on their own FootNote profile. Accordingly, this is a one to many relationship.
+
+The users or feedback givers who are viewing the original ideas of the profile owner, who are voting green/red on the profile owners original ideas, who are posting FootNotes in response to the ideas (which have a maximum character/word restriction but can be deleted or edited by the user until the footnote is stored/removed by the profile owner) and who can like or dislike the footnotes of other users is a many to many relationship as they can interact on the profile but also they can receive interactions by others (such as somebody liking/disliking their footnote)
+
+Views...
+
+Models
+
+
+Formtt...model, view, template
+
+Directories and frameworks used
+
+Design....CSS...hover..what frameworks have been connected that are aiding in bringing this app to fruition
+
+Materialize
+
+
+Visibility
+
+
+Was bootstrap used?
+
+Object orientated design
+
+
+Testing-what tests were used
+
+Languages-what languages were used
+
+Testing on languages
+What was used to test languages
+
+
+
